@@ -27,7 +27,7 @@
 	"bugs": {
 		"url": "https://github.com/MR-RAHAD-511/Rahad-bypass2/issues"
 	},
-	"homepage": "https://github.com/MR-RAHAD-511/Rahad-bypass2",
+	"homepage": "https://github.com/MR-RAHAD-511/Rahad-bypass2/issues",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
